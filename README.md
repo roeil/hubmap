@@ -5,6 +5,9 @@ Python Jupyter notebooks and .py files to identify kidney glomeruli [(hubmap NIH
 
 Dice score of 96, with a loss <0.01.
 
+## Architecture
+![ ](arch.jpg)
+
 ## Example
 #### Original image: 
 ![ ](orig.png)
